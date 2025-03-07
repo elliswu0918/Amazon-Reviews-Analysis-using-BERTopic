@@ -60,8 +60,6 @@ We examined the relationship between **product ranking** and various review feat
 📌 **For full implementation details, check the source code in this repository!**
 
 ---
-**Author:** Hsien cheng Wu  
 
-**Contact:** a0938528939@gmail.com
 
 **License:** MIT
